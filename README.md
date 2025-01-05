@@ -8,7 +8,15 @@
 
   Export your keys:
   ```bash
-  export
+  export GROQ_API_KEY=""
+
+  export GOOGLE_API_KEY=""
+
+  export OPENAI_API_KEY=""
+
+  export DS_API_KEY=""
+
+  export SN_API_KEY=""
   ```
 
   
