@@ -1,6 +1,13 @@
 # all_conn The All Connection Script
 
+Working on Linux, Windows, Mac??, Android(download PyDroid 3 and install PySide6 and requests through app, there is a terminal to set keys)
+
 - Install:
+  ```bash
+  pip install PySide6 requests
+  ```
+
+- Libraries for Linux:
   ```bash
   sudo apt update
   ```
