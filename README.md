@@ -1,6 +1,6 @@
 # all_conn The All Connection Script
 
-Access models from OpenAI, Google, Groq, SambaNova, and Deepseek(so far) - with Ollama support(auto-list your models). Simple script to work on anything with minimal requirements. 
+Access models from OpenAI, Google, Groq, SambaNova, and Deepseek(so far) - with Ollama support(auto-list your models). PySide6 GUI. Simple script to work on anything with minimal requirements. 
 
 <p align="center">
   <img src="https://github.com/mrhappynice/all_conn/blob/main/allconn-logo.JPG?raw=true" alt="alt text" width="500">
